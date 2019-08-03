@@ -1,9 +1,0 @@
-
-
-library(treeman)
-
-data(birds)
-
-
-
-
